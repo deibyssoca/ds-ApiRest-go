@@ -1,6 +1,6 @@
-# Welcome to Buffalo!
+# Welcome to ds-ApiRest!
 
-Thank you for choosing Buffalo for your web development needs.
+Api generada usando el framework Buffalo.
 
 ## Database Setup
 
@@ -32,4 +32,3 @@ We recommend you heading over to [http://gobuffalo.io](http://gobuffalo.io) and 
 
 Good luck!
 
-[Powered by Buffalo](http://gobuffalo.io)
